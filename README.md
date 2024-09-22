@@ -1,6 +1,5 @@
 <h1>Active Directory Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this lab I'm going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running labs to demostrate how active directory and windows networking works. 
@@ -23,11 +22,11 @@ In this lab I'm going to walk through how to create an Active Directory home lab
 
 <p align="center">
 Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
