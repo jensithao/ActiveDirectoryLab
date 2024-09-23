@@ -21,12 +21,12 @@ In this lab I'm going to walk through how to create an Active Directory home lab
 <h2>Program walk-through:</h2>
 
 <p align="center">
-[Insert]: <br/>
-<img src="" height="80%" width="80%" alt=""/>
+Users Name List: <br/>
+<img src="https://i.imgur.com/C79ylHN.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-[Insert]:  <br/>
-<img src="" height="80%" width="80%" alt=""/>
+Inputing user list into PowerShell script:  <br/>
+<img src="https://i.imgur.com/1nXLyo7.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
 
