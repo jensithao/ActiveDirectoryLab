@@ -1,10 +1,11 @@
 <h1>Active Directory Lab</h1>
 
 
-<h2>Description</h2>
-In this lab I'm going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running labs to demostrate how active directory and windows networking works. 
+<h2>Project Overview</h2>
+The goal of this project is to create a full Active Directory lab environment on a personal computer using VirtualBox. This setup helps users gain hands-on experience with Windows networking, Active Directory, DHCP, and PowerShell automation. It involves configuring a domain controller, creating multiple user accounts, and connecting a Windows 10 client to the domain, simulating a basic enterprise network environment for learning and practice.
 
-<br />
+<p align="center">
+<img src=https://i.imgur.com/wZbcgiC.png"" height="80%" width="80%" alt=""/> <br/>
 
 
 <h2>Languages and Utilities Used</h2>
@@ -21,9 +22,7 @@ In this lab I'm going to walk through how to create an Active Directory home lab
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Quick Overview of Project: <br/>
-<img src=https://i.imgur.com/wZbcgiC.png"" height="80%" width="80%" alt=""/> <br/>
-The goal of this project is to create a full Active Directory lab environment on a personal computer using VirtualBox. This setup helps users gain hands-on experience with Windows networking, Active Directory, DHCP, and PowerShell automation. It involves configuring a domain controller, creating multiple user accounts, and connecting a Windows 10 client to the domain, simulating a basic enterprise network environment for learning and practice.
+
 <!--
 1. Download and Install Oracle VirtualBox
  VirtualBox will be used to run the virtual machines.
