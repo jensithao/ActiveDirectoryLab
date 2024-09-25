@@ -48,9 +48,8 @@ The goal of this project is to create a full Active Directory lab environment on
 <br />
 4. Configure two network adapters: <br/>
     o	 One for connecting to the outside internet. <br/>
+<img src="https://i.imgur.com/5vaaB34.png" height="80%" width="80%" alt=""/> 
     o	 One for connecting to the VirtualBox private network for the clients. <br/>
-<br />
-<img src="https://i.imgur.com/5vaaB34.png" height="80%" width="80%" alt=""/>
 <img src="https://i.imgur.com/Zl1zp8L.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
