@@ -60,7 +60,7 @@ The goal of this lab is to create a full Active Directory lab environment on a p
 <br />
 
 6. Assign IP addressing for the internal network. The external network will get an IP address from your home router automatically. <br/>
-<img src="https://i.imgur.com/9bCreEJ.png" height="80%" width="80%" alt=""/>
+<img src="https://i.imgur.com/9bCreEJ.png" height="60%" width="60%" alt=""/>
 <br />
 <br />
 
