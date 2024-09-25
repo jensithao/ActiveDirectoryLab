@@ -2,7 +2,7 @@
 
 
 <h2>Project Overview</h2>
-The goal of this project is to create a full Active Directory lab environment on a personal computer using VirtualBox. This setup helps users gain hands-on experience with Windows networking, Active Directory, DHCP, and PowerShell automation. It involves configuring a domain controller, creating multiple user accounts, and connecting a Windows 10 client to the domain, simulating a basic enterprise network environment for learning and practice. 
+The goal of this lab is to create a full Active Directory lab environment on a personal computer using VirtualBox. This setup helps users gain hands-on experience with Windows networking, Active Directory, DHCP, and PowerShell automation. It involves configuring a domain controller, creating multiple user accounts, and connecting a Windows 10 client to the domain, simulating a basic enterprise network environment for learning and practice. 
 <br />
 <br />
 <p align="left">
