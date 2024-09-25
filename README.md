@@ -27,6 +27,7 @@ The goal of this project is to create a full Active Directory lab environment on
  
 <br />
 <br />
+
 1. Download and Install Oracle VirtualBox: <br/>
     VirtualBox will be used to run the virtual machines. <br/>
 <img src="" height="80%" width="80%" alt=""/>
